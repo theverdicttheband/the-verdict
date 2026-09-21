@@ -46,7 +46,7 @@ Find `REPLACE: Bio` and edit the three paragraphs in `.bio`. Keep it concise; re
 
 ## 8. Edit contact details
 
-Search and replace every occurrence of `theverdictblonocu@gmail.com` in `dist/index.html`, including `mailto:` links. Likewise update every Instagram URL and `@theverdict_theband` label. There is no form or server: Email the band opens the visitor's email app. The email address remains visible for copying.
+Search and replace every occurrence of `theverdictblonocu@gmail.com` in `dist/index.html`, including `mailto:` links. Likewise update every Instagram URL and `@theverdict_theband` label. Facebook links use `https://www.facebook.com/profile.php?id=61594643633042` in the social, booking, and footer sections. Update all three if the page address changes. There is no form or server: Email the band opens the visitor's email app. The email address remains visible for copying.
 
 ## Current hosting: GitHub Pages
 
