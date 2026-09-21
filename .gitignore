@@ -1,0 +1,4 @@
+.sites-runtime/
+.openai/
+*.tar.gz
+*.zip
