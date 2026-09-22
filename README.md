@@ -1,7 +1,7 @@
 # The Verdict — electronic press kit
 
-Public website: https://liamcampbell-png.github.io/the-verdict/
-Source repository: https://github.com/liamcampbell-png/the-verdict
+Public website: https://theverdicttheband.github.io/the-verdict/
+Source repository: https://github.com/theverdicttheband/the-verdict
 
 ## Run locally
 
@@ -51,4 +51,4 @@ Setlist sources:
 
 Video 2 is intentionally a Coming soon placeholder. Its old exports have been removed from the published folder. Videos 1 and 3 remain. Two gallery placeholders reserve the next photographs; a circular hero placeholder reserves the third forthcoming image (the logo). Replace the logo div with an image using the same class and size, and set descriptive alt text. No unavailable image paths are loaded.
 
-A move to a band-owned GitHub account or organization is pending the owner's exact username and access. Keep the existing site active until the new Pages URL is verified. After transferring the repository, update the local Git remote, both Open Graph URLs, this guide, and Pages deployment settings. GitHub Pages URLs do not automatically redirect when repositories move.
+The repository is owned by theverdicttheband. The local Git remote and Open Graph URLs point to the band's account. The former owner remains a write collaborator for maintenance; repository ownership belongs to the band account. Use the new public URL above; GitHub Pages does not automatically redirect the old site address.
