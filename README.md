@@ -46,3 +46,9 @@ Check the final playback with sound on your phone before sending the link to boo
 Setlist sources:
 - https://open.spotify.com/playlist/6WchMtfJsPjDLY1gptm4K1
 - https://open.spotify.com/playlist/47DIR3caYWMw4EwlaPfxyk
+
+## Pending media and band-owned hosting
+
+Video 2 is intentionally a Coming soon placeholder. Its old exports have been removed from the published folder. Videos 1 and 3 remain. Two gallery placeholders reserve the next photographs; a circular hero placeholder reserves the third forthcoming image (the logo). Replace the logo div with an image using the same class and size, and set descriptive alt text. No unavailable image paths are loaded.
+
+A move to a band-owned GitHub account or organization is pending the owner's exact username and access. Keep the existing site active until the new Pages URL is verified. After transferring the repository, update the local Git remote, both Open Graph URLs, this guide, and Pages deployment settings. GitHub Pages URLs do not automatically redirect when repositories move.
